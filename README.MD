@@ -1,21 +1,9 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Capa_podcast.jpeg
+    "
     width="300"
 />
-</p>
-
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
 </p>
 
 <p align="center">
@@ -23,7 +11,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/GreenDragon_editado.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -35,10 +23,14 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
+## 📝Assunto Escolhido
+
+Com o objetivo de explorar as capacidades com que as IA generativas conseguem criar textos/imagens de determinados contextos quando seguindo prompts específicos e falar de um assunto de que gosto e entendo, decidi que o tema do podcast seria sobre cultura pop, tendo o Senhor dos Anéis como base para o look and feel do podcast.
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [LeonardoAi](https://leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -46,8 +38,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Leonardo Ai Para gerar a capa
+- Capcut para editar aúdio e adicionar a trilha sonora do podcast
 
 ## 📚 Materiais
 
@@ -64,36 +56,30 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
+## 👨‍💻 Aluno
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://media.licdn.com/dms/image/v2/D4D03AQGGvqGkbcJmJw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708785503461?e=1738195200&v=beta&t=qGzKj3rb2GmVaVPZcmW86Y2IM6E1Wf96lLajsAeke3w"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbsp Marcus Vinícius Marques de Lima<br>
+    &nbsp&nbsp&nbsp
+    Engenheiro Elétrico &nbsp;|&nbsp Desenvolvedor<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/Marcus-Lima99">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="https://www.linkedin.com/in/marcusviniciuslima/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
